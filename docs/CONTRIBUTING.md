@@ -7,7 +7,7 @@ Here you can learn about how you can help make thenewboston-js a robust and simp
 Make sure you clone the official repository. Here is the command to run if you want to clone with git:
 
 ```sh
-> git clone https://github.com/thenewboston-developers/thenewboston-js.git
+> git clone https://github.com/Keysign-Wallet/DTNB-JS.git
 ```
 
 After that, you should see a new folder named `thenewboston-js` in your current working directory. Navigate into that project and you're ready to go!
